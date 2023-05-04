@@ -1,0 +1,104 @@
+@import "../../assest/fonts/fonts.css";
+
+
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    max-width: 960px;
+    height: 400px;
+}
+
+.color{
+    color:  #FFFFFF;
+    font-size: 8px;
+    font-family: 'Montserat';
+    font-weight: 700;
+    background-color: #8D76BE;
+    padding: 4px 8px 4px 8px;
+}
+
+.table{
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    justify-content: center;
+   
+    align-items: center;
+}
+.title{
+    font-size: 12px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    color: #757575;
+ 
+}
+
+.span{
+    font-family: 'Arvo';
+    font-size: 24px;
+    font-weight: 400;
+    color: #818181;
+   
+}
+
+.pricing{
+    font-family: 'Arvo';
+    font-size: 72px;
+    font-weight: 400;
+    color: #212121;
+    margin-top: 16px;
+    
+
+}
+
+.product{
+    max-width: 160px;
+    font-family: 'Arvo';
+    font-size: 14px;
+    font-weight: 700;
+    color: #212121;
+    margin-top: 12px;
+    margin-bottom: 13px;
+}
+
+.size{
+    font-family: 'Arvo';
+    font-size: 14px;
+    font-weight: 400;
+    color: #212121;
+    margin-bottom: 27px;
+}
+
+.button{
+    width: 160px;
+    height: 46px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 12px;
+    border: 1px solid #9FA3A7;
+    border-radius: 100px;
+    color:   #525252;
+}
+
+.popular{
+    color: #F05638;
+}
+
+.bacgraund{
+    background-color: #FFC80A;
+    color: white;
+}
+
+.table:nth-child(1){
+    height: 317px;
+    margin: auto;
+    border-right: 1px solid #E4E4E4;
+}
+.table:nth-child(2){
+    height: 317px;
+    margin: auto;
+    border-right: 1px solid #E4E4E4;
+}

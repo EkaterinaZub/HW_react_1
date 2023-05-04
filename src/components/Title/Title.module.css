@@ -1,0 +1,19 @@
+.title{
+    font-size: 42px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-family: 'Arvo';
+}
+
+.text{
+    max-width: 540px;
+    height: 80px;
+    font-size: 14px;
+    font-family: 'Opensans';
+    color: #FFFFFF;
+   text-align: justify;
+   text-align-last: center;
+   margin-bottom: 58px;
+   margin-top: 57px;
+}
+
